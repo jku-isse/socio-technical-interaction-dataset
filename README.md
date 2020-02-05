@@ -18,7 +18,7 @@ Run Neo4j Desktop application and follow instructions:
 
 Once the graph database is running, start Neo4j browser and execute cypher script for each project.
 as show in the figure below
-![GitHub Logo](/browser.PNG)
+![GitHub Logo](/browser.png)
 
 The script will insert the data of the graph in the database.
 
