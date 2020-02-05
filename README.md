@@ -12,7 +12,7 @@ Run Neo4j Desktop application and follow instructions:
 - Start the Graph database
 
 ![GitHub Logo](/AddGraph.PNG)
-Format: ![Alt Text](url)
+
 
 # Loading Cypher scripts to Graph database
 
