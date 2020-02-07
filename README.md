@@ -1,11 +1,3 @@
-# Realtional Dataset
-- Downlaod Dump.sql from https://github.com/jku-isse/socio-technical-interaction-dataset/releases
-- Before importing Dump.sql icrease your max_allowed_packet=4M to 16M in your MySQL initialization usually located at C:\ProgramData\MySQL\MySQL Server 8.0\my.ini 
-- Import Dump.sql to your local MySQL server by MySQL Workbech->Server->Data Import -> Import from Self-Contained File -> Start Import
- 
----------------------------------------------------------------------------------------------------------------------------------------
-# Graph Dataset
-
 # Download Neo4j Desktop
 
 Download link can be found here https://neo4j.com/
@@ -26,7 +18,7 @@ Run Neo4j Desktop application and follow instructions:
 
 Once the graph database is running, start Neo4j browser and execute cypher script for each project.
 as show in the figure below
-![GitHub Logo](/browser.png)
+![GitHub Logo](/browser.PNG)
 
 The script will insert the data of the graph in the database.
 
