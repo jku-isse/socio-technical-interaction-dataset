@@ -1,7 +1,9 @@
 # Realtional Dataset
 - Downlaod Dump.sql from https://github.com/jku-isse/socio-technical-interaction-dataset/releases
-- Import it your local MySQL server MySQL Workbech->Server->Data Import -> Import from Self-Contained File -> Start Import
+- Import Dump.sql to your local MySQL server by MySQL Workbech->Server->Data Import -> Import from Self-Contained File -> Start Import
 -
+---------------------------------------------------------------------------------------------------------------------------------------
+# Graph Dataset
 
 # Download Neo4j Desktop
 
