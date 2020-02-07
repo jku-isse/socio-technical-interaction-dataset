@@ -30,6 +30,22 @@ as show in the figure below
 
 The script will insert the data of the graph in the database.
 
+OR
+
+# Loading from graph.db
+
+- Download the graph.db from https://github.com/jku-isse/socio-technical-interaction-dataset/releases
+- graph.db contains subfolder DeveloperInteractionGraph.db and SubsystemInteractionGraph.db 
+- To visualize any desired graph from the graph.db/DeveloperInteractionGraph.db or SubsystemInteractionGraph.db 
+- Create a graph in Neo4j
+- Click on Manage
+- Click on Open Folder
+- Paste the desired (project).db inside the data/databases folder
+- Restart DB
+Neo4j credentials:
+userid = neo4j
+password = admin
+
 ## Visualize graph
 
 The resultant graph can be visualized using following query:
