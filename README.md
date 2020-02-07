@@ -1,7 +1,7 @@
 # Realtional Dataset
 - Downlaod Dump.sql from https://github.com/jku-isse/socio-technical-interaction-dataset/releases
 - Import Dump.sql to your local MySQL server by MySQL Workbech->Server->Data Import -> Import from Self-Contained File -> Start Import
--
+-- In case you experience error: while imorting then go to your MySQL initialization i.e., C:\ProgramData\MySQL\MySQL Server 8.0\my.ini ->  increase  max_allowed_packet=4M to 16M
 ---------------------------------------------------------------------------------------------------------------------------------------
 # Graph Dataset
 
