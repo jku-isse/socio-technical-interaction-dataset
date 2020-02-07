@@ -42,7 +42,7 @@ OR
 - Click on Open Folder
 - Paste the desired (project).db inside the data/databases folder
 - Restart DB
-Neo4j credentials:
+- Neo4j credentials:
 userid = neo4j
 password = admin
 
