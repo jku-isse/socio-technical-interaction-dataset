@@ -1,3 +1,8 @@
+# Realtional Dataset
+- Downlaod Dump.sql from https://github.com/jku-isse/socio-technical-interaction-dataset/releases
+- Import it your local MySQL server MySQL Workbech->Server->Data Import -> Import from Self-Contained File -> Start Import
+-
+
 # Download Neo4j Desktop
 
 Download link can be found here https://neo4j.com/
