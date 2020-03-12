@@ -1,4 +1,4 @@
-# Realtional Dataset
+# Relational Dataset
 - Downlaod Dump.sql from https://github.com/jku-isse/socio-technical-interaction-dataset/releases
 - Before importing Dump.sql icrease your max_allowed_packet=4M to 16M in your MySQL initialization usually located at C:\ProgramData\MySQL\MySQL Server 8.0\my.ini 
 - Import Dump.sql to your local MySQL server by MySQL Workbech->Server->Data Import -> Import from Self-Contained File -> Start Import
